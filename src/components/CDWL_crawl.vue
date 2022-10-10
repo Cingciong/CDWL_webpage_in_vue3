@@ -35,17 +35,17 @@ Jacuś wyrusza w kolejną podróż aby odmienić swój los a na swojej drodze cz
   <div class="black-box"></div>
 </template>
 
-<style>
+<style scoped>
 
 .black-box{
   width:100vw;
- background-color:#000;
- background-image: url("src/assets/img/rzulta-frame.png");
- transform: rotate(180deg);
+  background-color:#000;
+  background-image: url("src/assets/img/CDWL_crawl/gray-frame.png");
+  transform: rotate(180deg);
   background-position: 0vw 0vw;
   background-size: 100%;
-      background-repeat: no-repeat;
- height:15vw;
+  background-repeat: no-repeat;
+  height:15vw;
 }
 
 .star-wars-intro {

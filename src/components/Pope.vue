@@ -33,7 +33,7 @@
             <div class="window-text-2">
               Wielkie Persony w naszej emocjonującej rozgrywce!!
             </div>
-          </div>
+          </div>s
         </div>
       </div>
     </div>
@@ -140,6 +140,9 @@
   border: 0.2vw solid #000;
 }
 
+.window-1-2:hover {
+  background-color: whitesmoke;
+}
 .img-holder {
   height: calc(0.7 * 28vw);
   width: 100%;
